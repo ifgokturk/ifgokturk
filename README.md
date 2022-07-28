@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Kocaeli Metropolitian Municipality**
 
-- 🌱 I’m currently learning **Flutter, Figma, Grpc,Golang**
+- 🌱 I’m currently learning **Flutter, Figma, Grpc,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ifgokturk](https://github.com/ifgokturk)
 
