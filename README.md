@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İbrahim Fatih GÖKTÜRK</h1>
-<h3 align="center">A Flutter Developer from Türkiye</h3>
+<h3 align="center">A Software Developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifgokturk&label=Profile%20views&color=0e75b6&style=flat" alt="ifgokturk" /> </p>
 
